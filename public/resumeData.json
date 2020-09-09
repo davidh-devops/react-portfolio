@@ -1,12 +1,12 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "David Hag",
+    "occupation": "learnning ReactJs and Node.js",
+    "description": "trying to keep up with the word",
+    "image": "cute-raccoon.jpg",
+    "bio": "My name is David, I'm learning react and node.js ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
+    "email": "1dav.hag+cleverprogrammer@gmail.com",
     "phone": "+44 12 345 6789",
     "address": {
       "street": "123 Fake Street",
@@ -14,27 +14,27 @@
       "state": "UK",
       "zip": "ABC 123"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.google.com",
+    "resumedownload": "http://google.com",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/david.hag.984",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/davidh-devops",
         "className": "fa fa-github"
       }
     ]
